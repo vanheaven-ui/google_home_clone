@@ -1,0 +1,2 @@
+I am trying to replicate google home page under The Odin project.
+I had challenges with top navigation bar scaling and adding the google apps icon as well as the sign in button at extreme right. I also want to add a search icon as well as a voice search icon in the placeholder of text area.
