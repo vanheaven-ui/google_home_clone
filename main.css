@@ -6,7 +6,6 @@ body {
 
 ul {
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
 }
 
 li {
@@ -14,7 +13,6 @@ li {
 }
 
 a {
-  list-style-type: none;
   text-decoration: none;
   padding: 8px;
 }
