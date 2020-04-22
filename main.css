@@ -3,21 +3,23 @@ body {
   padding: 0;
   font-family: 'Roboto', sans-serif;
   }
+
 ul {
   font-size: 12px;
-  font-family: 'Roboto', sans-serif;
 }
+
 li {
   display: inline;  
 }
+
 a {
-  list-style-type: none;
   text-decoration: none;
   padding: 8px;
 }
 a:hover {
   text-decoration: underline;
 }
+
 a button {
   margin: 0;
   padding: 6px 12px;
@@ -25,17 +27,21 @@ a button {
   background-color: rgb(64, 64, 247);
   border-style: none;
 }
+
 a button:hover{
   text-decoration: underline;
   font-weight: bold;
 }
+
 #nav_left {
   float: left;
   padding-left: 5px;  
 }
+
 #nav_left a {
   color: rgb(56, 55, 55)
 }
+
 #nav_right {
   float: right;
   padding-right: 15px;
@@ -70,6 +76,7 @@ a button:hover{
   margin-bottom: 145px;
   font-family: Arial, Helvetica, sans-serif;   
 }
+
 #google_search {
   width: auto;
   padding: 5px 6px;
@@ -77,13 +84,15 @@ a button:hover{
   background-color: #f2f2f2;
   border-style: none;
   font-size: 14px;
-} 
+}
+
 #google_search:hover {
   color:rgb(44, 43, 43);
   border-style: solid;
   border-color: rgb(196, 194, 194);
   border-radius: 5px;
 }
+
 #im_feeling_lucky {
   padding: 5px 10px;
   color: rgb(105, 102, 102);
@@ -91,6 +100,7 @@ a button:hover{
   border-style: none;
   font-size: 14px;
 }
+
 #im_feeling_lucky:hover {  
   color:rgb(44, 43, 43);
   border-style: solid;
@@ -98,6 +108,7 @@ a button:hover{
   border-radius: 5px;
   
 }
+
 footer  {
   background: #f2f2f2;
   border-top: solid 2px #e4e4e4;
@@ -106,22 +117,26 @@ footer  {
   width: 100%;
   position: fixed;      
 }
+
 footer a {
   color: rgb(105, 102, 102);
 }
+
 footer ul li {
   display: inline;
   color: #cecbcb;
   font-size: 12px;
   padding: 13px;
-}  
+}
+
 footer ul {
   float: left;
   padding: 1px;
 } 
 footer ul a:hover {
   text-decoration: underline;
-}  
+}
+ 
 .footer-right {
   float: right;
 }
