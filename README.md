@@ -1,4 +1,4 @@
-# Tribute Page
+# Google home page clone (My first HTML and CSS build)
 
 This project was completed under the Odin project curriculum. The requirement was to replicate the google home page by positioning elements on the screen
 I built this simple page using html and CSS with emphasis on positioning the respective elements on the page according to the source page [here](https://web.archive.org/web/20191130234759/https://www.google.com/).
